@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 23, 2017, 6:12:36 AM
+    Author     : Hash
+*/
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+
+}
+
+
+
